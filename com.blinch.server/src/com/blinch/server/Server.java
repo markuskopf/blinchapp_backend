@@ -12,6 +12,7 @@ public class Server {
 	public static void main(String... args) {
 		System.out.println("Hello Blinch");
 
+		// FIXME: does not build since dependency is missing.
 		SpringApplication.run(Server.class, args);
 	}
 
