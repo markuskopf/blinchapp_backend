@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.brienwheeler.lib:lib-util:1.03-RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/lib/lib-util/1.03-RELEASE/lib-util-1.03-RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/lib/lib-util/1.03-RELEASE/lib-util-1.03-RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/brienwheeler/lib/lib-util/1.03-RELEASE/lib-util-1.03-RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
