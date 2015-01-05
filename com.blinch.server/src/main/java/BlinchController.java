@@ -5,6 +5,9 @@
 
 import org.springframework.web.bind.annotation.*;
 
+import java.lang.reflect.Array;
+import java.util.Date;
+
 @RestController
 public class BlinchController {
 
@@ -71,8 +74,24 @@ public class BlinchController {
         response.setMessage("You have 20 entries.");
 
 
-        //TODO: Markus - how to send back a array of.....
+        BlinchAppointment app1 = new BlinchAppointment();
+        app1.setName("Tanja");
+        app1.setMyName("Markus");
 
+        BlinchAppointment app2 = new BlinchAppointment();
+        app2.setName("Foo");
+        app2.setMyName("Fritz");
+
+        BlinchAppointment app3 = new BlinchAppointment();
+        app3.setName("Hugo");
+        app3.setMyName("Markus");
+
+        BlinchAppointment[] appointments = new BlinchAppointment[3];
+        appointments[0] = app1;
+        appointments[1] = app2;
+        appointments[2] = app3;
+
+        response.setAppointments(appointments);
 
         return  response;
     }
