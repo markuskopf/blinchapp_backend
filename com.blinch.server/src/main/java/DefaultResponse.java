@@ -6,7 +6,6 @@ public class DefaultResponse {
     private int status;
     private String message;
 
-
     public void setStatus(int status) {
         this.status = status;
     }
