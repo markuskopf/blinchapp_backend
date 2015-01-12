@@ -1,0 +1,16 @@
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/Server.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/LogoutRequest.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/RegisterResponse.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/UserNotFoundException.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/NotYetImplementedException.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/StatusResponse.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/RegisterRequest.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/LogoutResponse.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/DefaultResponse.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/CheckinResponse.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/BlinchAppointment.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/LoginResponse.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/BlinchController.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/LoginRequest.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/HistoryResponse.java
+/Users/markuskopf/Projects/blunch/blinchapp_backend/com.blinch.server/src/main/java/blinch/CheckinRequest.java
